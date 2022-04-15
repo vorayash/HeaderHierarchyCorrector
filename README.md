@@ -30,7 +30,7 @@ media
 
 Note: Page is being reloaded in the gif
 
-![Entering Text](https://ibb.co/2ZxWKRj)
+![Entering Text](https://i.ibb.co/0sTmJ1f/c9-F7-T7-Kxwb.gif)
 
 ## DOWNLOADING THE JOOMLA PLUGIN
 
