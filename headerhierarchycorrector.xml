@@ -15,7 +15,6 @@
 	<files>
 		<filename plugin="headerhierarchycorrector">index.html</filename>
 		<filename plugin="headerhierarchycorrector">headerhierarchycorrector.php</filename>
-		<filename plugin="headerhierarchycorrector">manifest.xml</filename>
 	</files>
 
 	<languages>
