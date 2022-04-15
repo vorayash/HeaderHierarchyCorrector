@@ -4,6 +4,28 @@ Header Hierarchy Corrector is a joomla frontend plugin that checks hierarchy of 
 ## PREREQUISITES 
  * Joomla version 4.x.
 
+## Plugin Specifications:
+- Type: <b> System </b> <br/>
+- Events Used: <b> onBeforeRender </b>
+- Follows Joomla Coding Standards: <b> Yes </b> <br/>
+- Follows Joomla Naming Conventions: <b> Yes </b> <br/>
+- phpcs sniffer verified: <b> Yes </b> <br/>
+
+## Plugin Folder Structure
+```
+language
+   |-- en-GB
+   |   |-- en-GB.plg_system_headerhierarchycorrector.ini
+   |   |-- en-GB.plg_system_headerhierarchycorrector.sys.ini
+   |   |-- index.html
+   |-- index.html
+media
+   |-- index.html
+   |-- js
+   |   |-- config-header-corrector.es6.js
+   |   |-- index.html
+```
+
 ## DOWNLOADING THE JOOMLA PLUGIN
 
 * Download this plugin from [HeaderHierarchyCorrector.zip](https://github.com/vorayash/HeaderHierarchyCorrector/archive/refs/heads/main.zip) and install it through Joomla Extension manager.
