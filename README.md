@@ -26,6 +26,12 @@ media
    |   |-- index.html
 ```
 
+## Expected Output/Behaviour:
+
+Note: Page is being reloaded in the gif
+
+![Entering Text](https://ibb.co/2ZxWKRj)
+
 ## DOWNLOADING THE JOOMLA PLUGIN
 
 * Download this plugin from [HeaderHierarchyCorrector.zip](https://github.com/vorayash/HeaderHierarchyCorrector/archive/refs/heads/main.zip) and install it through Joomla Extension manager.
