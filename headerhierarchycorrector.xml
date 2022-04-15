@@ -3,7 +3,9 @@
 	<name>plg_system_headerhierarchycorrector</name>
 	<author>Yash Vora</author>
 	<creationDate>10/4/2022</creationDate>
-	<version>4.0.1</version>
+	<authorEmail>vorayash9028@gmail.com</authorEmail>
+	<authorUrl>https://github.com/vorayash</authorUrl>
+	<version>1.0.0</version>
 	<description>PLG_SYSTEM_HEADERHIERARCHYCORRECTOR_DESCRIPTION</description>
 	<projectName>headerhierarchycorrector</projectName>
 

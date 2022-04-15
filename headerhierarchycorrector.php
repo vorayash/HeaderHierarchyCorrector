@@ -1,42 +1,49 @@
 <?php
-/* @package Joomla
- * @copyright Copyright (C) Open Source Matters. All rights reserved.
- * @license http://www.gnu.org/copyleft/gpl.html GNU/GPL, see LICENSE.php
+/**
+ * Yash Vora Header Hierarchy Corrector plugin
+ *
+ * @copyright(C)2018 Open Source Matters, Inc. <https://www.joomla.org>
+ * @license          GNU General Public License version 2 or later; see LICENSE.txt
+ * @since            4.0
  */
-
 
 use Joomla\CMS\Factory;
 use Joomla\CMS\Plugin\CMSPlugin;
 use Joomla\CMS\HTML\HTMLHelper;
 
-defined( '_JEXEC' ) or die( 'Restricted access' );
-jimport( 'joomla.plugin.plugin' );
-
-class plgSystemHeaderHierarchyCorrector extends CMSPlugin
+defined('_JEXEC') or die('Restricted access');
+/**
+ * Checks heading hierarchy and corrects it
+ *
+ * @since 4.0
+ */
+class PlgSystemHeaderHierarchyCorrector extends CMSPlugin
 {
 
-	public function __construct(& $subject, $config) {
-
+	public function __construct(& $subject, $config)
+	{
 		$this->loadLanguage('plg_system_headerhierarchycorrector');
 		parent::__construct($subject, $config);
 	}
 
-	public function isActive() {
-
+	public function isActive()
+	{
 		$app = Factory::getApplication();
 
-		if ($app->getName() === 'site') {
+		if ($app->getName() === 'site')
+		{
 			return true;
 		}
 
 		return false;
 	}
 
-	function onBeforeRender() {
-
+	public function onBeforeRender()
+	{
 		$active = $this->isActive();
 
-		if (!$active) {
+		if (!$active)
+		{
 			return '';
 		}
 
