@@ -30,7 +30,7 @@ media
 
 Note: Page is being reloaded in the gif
 
-![Entering Text](https://media.giphy.com/media/0VmRqGpPglUOK6B5jO/giphy.gif)
+![Entering Text](https://github.com/vorayash/Temp-Gif/blob/main/c9F7T7Kxwb.gif)
 
 ## DOWNLOADING THE JOOMLA PLUGIN
 
