@@ -13,8 +13,7 @@ Header Hierarchy Corrector is a joomla frontend plugin that checks hierarchy of 
 ## Plugin Specifications:
 - Type: <b> System </b> <br/>
 - Events Used: <b> onBeforeRender </b>
-- Follows Joomla Coding Standards: <b> Yes </b> <br/>
-- Follows Joomla Naming Conventions: <b> Yes </b> <br/>
+- Follows Joomla Coding Standards and Naming Conventions: <b> Yes </b> <br/>
 - phpcs sniffer verified: <b> Yes </b> <br/>
 
 ## Plugin Folder Structure
@@ -32,7 +31,7 @@ media
    |   |-- index.html
 ```
 
-## Expected Output/Behaviour:
+## Working of Plugin:
 
 Note: Page is being reloaded in the gif
 
