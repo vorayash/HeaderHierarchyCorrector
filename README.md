@@ -10,13 +10,13 @@ Header Hierarchy Corrector is a joomla frontend plugin that checks hierarchy of 
 
 * Select **"Manage"** under **"Extensions">"Manage"** in the top menu. Search for "Header", select HeaderHierarchyCorrector and click on **"Enable"**.
 
-## Plugin Specifications:
+## PLUGIN SPECIFICATIONS:
 - Type: <b> System </b> <br/>
 - Events Used: <b> onBeforeRender </b>
 - Follows Joomla Coding Standards and Naming Conventions: <b> Yes </b> <br/>
 - phpcs sniffer verified: <b> Yes </b> <br/>
 
-## Plugin Folder Structure
+## PLUGIN FOLDER STRUCTURE
 ```
 language
    |-- en-GB
@@ -31,7 +31,7 @@ media
    |   |-- index.html
 ```
 
-## Working of Plugin:
+## WORKING OF PLUGIN:
 
 Note: Page is being reloaded in the gif
 
