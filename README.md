@@ -30,6 +30,8 @@ media
    |   |-- config-header-corrector.es6.js
    |   |-- index.html
 ```
+## PLUGIN FOLLOWS STANDARDS FROM BELOW MENTIONED SOURCES
+*https://www.w3.org/WAI/tutorials/page-structure/headings/
 
 ## WORKING OF PLUGIN:
 
