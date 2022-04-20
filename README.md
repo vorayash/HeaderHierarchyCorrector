@@ -31,7 +31,10 @@ media
    |   |-- index.html
 ```
 ## PLUGIN FOLLOWS STANDARDS FROM BELOW MENTIONED SOURCES
-*https://www.w3.org/WAI/tutorials/page-structure/headings/
+* https://www.w3.org/WAI/tutorials/page-structure/headings/
+* https://www.contentkingapp.com/academy/headings/
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+* https://www.stylemanual.gov.au/structuring-content/headings
 
 ## WORKING OF PLUGIN:
 
